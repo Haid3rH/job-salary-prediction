@@ -54,7 +54,7 @@ This project addresses that gap by providing a **fast, accurate, and interactive
 
 <div style="padding:10px; font-size:100%; text-align:left;">
     URL: 
-    <a href="https://your-app-url.streamlit.app/" target="_blank">
+    <a href="https://job-salary-prediction.streamlit.app/" target="_blank">
         Click here to open the Job Salary Predictor
     </a>
 </div>
