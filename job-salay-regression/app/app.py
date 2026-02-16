@@ -231,7 +231,7 @@ st.markdown("""
 # ─── Model loading with better diagnostics ──────────────────────────────────
 @st.cache_resource
 def load_model():
-    path = r"F:\PYTHON\ML_Projects\Haider's_Projects\job-salay-regression\model\best_salary_model.pkl"
+    path = r"job-salay-regression\model\best_salary_model.pkl"
     
     try:
         # Try joblib first (recommended for scikit-learn models)
@@ -446,4 +446,5 @@ st.markdown("""
     <div style="text-align:center; color:#a0d0ff; padding:2rem 0; font-size:0.95rem;">
         © Built by Haider • Haris | 2026
     </div>
+
 """, unsafe_allow_html=True)
